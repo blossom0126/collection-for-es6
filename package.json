@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "test": "jasmine-node --verbose specs"
+  },
+  "dependencies": {
+    "jasmine-node": "1.14.5"
+  },
+  "name": "collection-calculate-camp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcoach/collection-calculate-camp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamcoach/collection-calculate-camp/issues"
+  },
+  "homepage": "https://github.com/iamcoach/collection-calculate-camp#readme",
+  "description": "",
+  "devDependencies": {
+    "jasmine": "^2.5.0"
+  }
+}
